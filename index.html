@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link href="./css/global.css" rel="stylesheet"/>
+    <link href="./bower_components/normalize-css/normalize.css" rel="stylesheet"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<main>
+    <div class="hangar">
+        <div class="hangarImg">
+            <img src="img/battleship.png" />
+        </div>
+        <div class="tutorial">
+            <h2>Public variables</h2>
+            <p>
+                <strong>matherial</strong>,
+                <strong>type</strong>,
+                <strong>enviroment</strong>,
+                <strong>pilot</strong>,
+                <strong>ammo</strong>,
+                <strong>volume</strong>,
+                <strong>speed</strong>,
+                <strong>affiliation</strong>,
+                <strong>weapon</strong>,
+                <strong>health</strong> - is public variables in constructor and it can be redefined when we need.
+            </p>
+
+            <h2>Private variables and methods</h2>
+
+            <p>
+                Galaxy has one standard of technical controll so functions which validate spaceship
+                by it's current characteristics is private and can not be modified outside.
+            </p>
+            <p>
+                <strong>point</strong> is local variable and visible just inside constructor.
+                <strong>quolityControll</strong> - is private method and it has no access outside constructor.
+            </p>
+            <p>* JavaScript can't make method or property protected that is why fake can be created. Ship with fake
+            quolityControll method automaticaly become out of law.</p>
+
+        </div>
+    </div>
+    <div class="programming">
+        <h1>Battleship Constructor</h1>
+        <p>
+            In civilized galaxy - star ship is pretty regular think. It was constructed 2 320 years ago by team from
+            Imperial Engineers Academy. They have been developed based construction and functionality for 350 years.
+        </p>
+        <p>
+            So, it would be stupid to ignore this part of ready to use methods in production
+            so was created base constructor for all ships in our galaxy, it is named - Battelship.
+        </p>
+        <p>
+            Later we will create with this constructor different space ships.
+        </p>
+
+        <p>
+        <p data-height="823" data-theme-id="0" data-slug-hash="qtFrj" data-default-tab="js" class='codepen'>See the Pen <a href='http://codepen.io/artemhp/pen/qtFrj'>qtFrj</a> by Artem Deykun (<a href='http://codepen.io/artemhp'>@artemhp</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+        <script async src="http://codepen.io/assets/embed/ei.js"></script>
+        </p>
+
+    </div>
+</main>
+</body>
+</html>
