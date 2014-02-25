@@ -1,0 +1,6 @@
+public/components/*
+.sass-cache/*
+*.tmp/*
+./css/*
+*.DS_Store
+.idea/

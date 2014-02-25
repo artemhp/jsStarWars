@@ -23,19 +23,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="constructor.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/constructor.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="114" selection-start="1666" selection-end="1666" vertical-scroll-proportion="0.6863469" vertical-offset="325" max-vertical-offset="1258">
+            <state line="11" column="35" selection-start="246" selection-end="273" vertical-scroll-proportion="0.35150376" vertical-offset="0" max-vertical-offset="532">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="constructor.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/constructor.html">
+      <file leaf-file-name="002_DragElement.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/Materials/Урок 6. События и обработка событий (Часть 2)/04_Samples/002_DragElement.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="44" selection-start="1941" selection-end="1941" vertical-scroll-proportion="0.0" vertical-offset="792" max-vertical-offset="1428">
+            <state line="51" column="110" selection-start="2118" selection-end="2119" vertical-scroll-proportion="-16.346153" vertical-offset="442" max-vertical-offset="1020">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="7" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="1" selection-start="773" selection-end="773" vertical-scroll-proportion="-8.54" vertical-offset="219" max-vertical-offset="748">
               <folding />
             </state>
           </provider>
@@ -44,61 +62,25 @@
       <file leaf-file-name="global.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/global.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="4" selection-start="1369" selection-end="1407" vertical-scroll-proportion="0.0" vertical-offset="1008" max-vertical-offset="1581">
+            <state line="43" column="29" selection-start="786" selection-end="786" vertical-scroll-proportion="-10.333333" vertical-offset="204" max-vertical-offset="1581">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gruntfile.coffee" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../Tutorials/smartme_marionette_2013/Gruntfile.coffee">
+      <file leaf-file-name="constructor.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/constructor.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="134" column="18" selection-start="3040" selection-end="3040" vertical-scroll-proportion="0.0" vertical-offset="1921" max-vertical-offset="6987">
+            <state line="49" column="0" selection-start="1443" selection-end="1443" vertical-scroll-proportion="-13.0" vertical-offset="508" max-vertical-offset="1921">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower_components/sass-bootstrap-compass/config.rb">
+      <file leaf-file-name="01_TimeOutSample.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/Materials/Урок 10. Ajax и работа с HTTP протоколами/Samples/03_Samples/01_TimeOutSample.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="816">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="961" selection-end="961" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="782">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sass-bootstrap.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower_components/sass-bootstrap-compass/sass/sass-bootstrap.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="18" selection-start="300" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1190">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_variables.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower_components/sass-bootstrap-compass/sass/_variables.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="38" selection-start="849" selection-end="887" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="10948">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_scaffolding.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower_components/sass-bootstrap-compass/sass/_scaffolding.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="29" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="2125">
+            <state line="14" column="46" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="612">
               <folding />
             </state>
           </provider>
@@ -115,11 +97,16 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/config.rb" />
-        <option value="$PROJECT_DIR$/constructor.html" />
         <option value="$USER_HOME$/Desktop/Icons (1)/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/scss/global.scss" />
         <option value="$PROJECT_DIR$/../../Tutorials/smartme_marionette_2013/Gruntfile.coffee" />
+        <option value="$PROJECT_DIR$/js.js" />
+        <option value="$PROJECT_DIR$/direction.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/constructor.js" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/constructor.html" />
       </list>
     </option>
   </component>
@@ -155,7 +142,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -198,58 +184,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jsStarWars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jsStarWars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jsStarWars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jsStarWars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jsStarWars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jsStarWars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="normalize-css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,11 +200,19 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Projects\Not Commercial\jsStarWars\img" />
       <recent name="D:\Projects\Not Commercial\jsStarWars" />
+      <recent name="D:\Projects\Not Commercial\jsStarWars\img" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -274,23 +223,15 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -313,13 +254,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1764706" sideWeight="0.43471074" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4154877" sideWeight="0.43471074" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -346,108 +287,98 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bower_components/sass-bootstrap-compass/config.rb">
+    <entry file="file://$USER_HOME$/Desktop/Materials/Урок 2. Работа с документами/04_DOM/004_childs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="816">
+        <state line="19" column="36" selection-start="535" selection-end="535" vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="476" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Materials/Урок 2. Работа с документами/04_DOM/001_childNodes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="21" selection-start="809" selection-end="819" vertical-scroll-proportion="0.25497288" vertical-offset="165" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/battleship.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/p2d2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="1037" selection-end="1037" vertical-scroll-proportion="0.031481482" vertical-offset="510" max-vertical-offset="1258" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="0" selection-start="946" selection-end="946" vertical-scroll-proportion="0.33333334" vertical-offset="963" max-vertical-offset="15623" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="140" column="0" selection-start="2254" selection-end="2254" vertical-scroll-proportion="0.33333334" vertical-offset="2187" max-vertical-offset="36924" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Materials/Урок 10. Ajax и работа с HTTP протоколами/Samples/03_Samples/01_TimeOutSample.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="46" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="612">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.rb">
+    <entry file="file://$PROJECT_DIR$/direction.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="961" selection-end="961" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="782">
+        <state line="47" column="40" selection-start="1892" selection-end="1892" vertical-scroll-proportion="0.78238344" vertical-offset="346" max-vertical-offset="1020">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/sass-bootstrap-compass/sass/sass-bootstrap.scss">
+    <entry file="file://$USER_HOME$/Desktop/Materials/Урок 4. CSS и JavaScript/03_DHTML/004_ComputedStyles.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="18" selection-start="300" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1190">
+        <state line="36" column="27" selection-start="1194" selection-end="1243" vertical-scroll-proportion="0.50994575" vertical-offset="330" max-vertical-offset="1003" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Materials/Урок 6. События и обработка событий (Часть 2)/04_Samples/002_DragElement.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="110" selection-start="2118" selection-end="2119" vertical-scroll-proportion="-16.346153" vertical-offset="442" max-vertical-offset="1020">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/sass-bootstrap-compass/sass/_variables.scss">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="38" selection-start="849" selection-end="887" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="10948">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/sass-bootstrap-compass/sass/_scaffolding.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="29" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="2125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/global.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="7" selection-start="631" selection-end="631" vertical-scroll-proportion="0.51102203" vertical-offset="0" max-vertical-offset="132464" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="961" selection-end="961" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/sass-bootstrap-compass/sass/_theme.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4301" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/sass-bootstrap-compass/sass/_wells.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1011" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/sass-bootstrap-compass/sass/sass-bootstrap.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="18" selection-start="300" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1190">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/sass-bootstrap-compass/sass/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="38" selection-start="849" selection-end="887" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="10948">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/sass-bootstrap-compass/sass/_scaffolding.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="29" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="2125">
+        <state line="3" column="7" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/global.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="4" selection-start="1369" selection-end="1407" vertical-scroll-proportion="0.0" vertical-offset="1008" max-vertical-offset="1581">
+        <state line="43" column="29" selection-start="786" selection-end="786" vertical-scroll-proportion="-10.333333" vertical-offset="204" max-vertical-offset="1581">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../Tutorials/smartme_marionette_2013/Gruntfile.coffee">
+    <entry file="file://$PROJECT_DIR$/constructor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="134" column="18" selection-start="3040" selection-end="3040" vertical-scroll-proportion="0.0" vertical-offset="1921" max-vertical-offset="6987">
+        <state line="49" column="0" selection-start="1443" selection-end="1443" vertical-scroll-proportion="-13.0" vertical-offset="508" max-vertical-offset="1921">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="1" selection-start="773" selection-end="773" vertical-scroll-proportion="-8.54" vertical-offset="219" max-vertical-offset="748">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/constructor.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="44" selection-start="1941" selection-end="1941" vertical-scroll-proportion="0.0" vertical-offset="792" max-vertical-offset="1428">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="114" selection-start="1666" selection-end="1666" vertical-scroll-proportion="0.6863469" vertical-offset="325" max-vertical-offset="1258">
+        <state line="11" column="35" selection-start="246" selection-end="273" vertical-scroll-proportion="0.35150376" vertical-offset="0" max-vertical-offset="532">
           <folding />
         </state>
       </provider>

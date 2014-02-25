@@ -3,77 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
-    <script>
-        function Battleship(type, affiliation, weapon) {
-            this.matherial = "steel";
-            this.type = type;
-            this.enviroment = "air";
-            this.pilot = "humanoides";
-            this.ammo = null;
-            this.volume = 100;
-            this.speed = 299792458;
-            this.affiliation = affiliation;
-            this.weapon = weapon;
-            this.quolityControllGood = 85;
-            this.health = 100;
-
-            var point = 0;
-            function quolityControll (needPoint) {
-                if (this.speed > 100000000) point += 30;
-                if (this.ammo > 500) point += 30;
-                if (this.pilot == null) point -= 1000;
-                if (this.health > 90) point += 10;
-                return needPoint > point;
-            }
-
-            this.getQuolityPoint = quolityControll (this.quolityControllGood);
-
-        }
-
-        Battleship.prototype.aim = function (target) {
-            return targetConfirm(target);
-        };
-
-        Battleship.prototype.fire = function (target) {
-            return this.ammo != null;
-        };
-
-        Battleship.prototype.transport = function (distance) {
-            return this.speed;
-        };
-
-        var XWingFighter = new Battleship(
-            "military", "Rebel Alliance",
-            ["Laser cannons", "Proton torpedo launchers"]
-        );
-
-        XWingFighter.volume = 20;
-        XWingFighter.ammo = 1800;
-        XWingFighter.speed= 346366753;
-
-        XWingFighter.color= 346366753;
-        XWingFighter.engineer= "Zabrak";
-        XWingFighter.droid= null;
-        XWingFighter.quolityControllGood = 50;
-
-        XWingFighter.weapon.push("Twin laser cannons");
-
-        XWingFighter.droidReparing = function (droid) {
-            if (arguments.length > 1) {
-                // "this is group of droids";
-            } else {
-                // "this is 1 droid";
-            }
-        };
-
-        console.log(XWingFighter);
-
-        var lukeShip555 = Object.create(XWingFighter);
-
-    </script>
+    <LINK href="style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 
+<div class="wrap">
+    <div id="base" data-base="Rebel Alliance">
+        <img class="ship" src="" />
+    </div>
+</div>
 
+<script src="constructor.js"></script>
+<script src="direction.js"></script>
 </body>
 </html>

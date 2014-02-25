@@ -1,0 +1,39 @@
+* {
+    box-sizing: content-box;
+}
+#base {
+    width: 100px;
+    height: 127px;
+    background-color: wheat;
+}
+img {
+    transition: all 1s ease;
+    top:0;
+    position: absolute;
+}
+.wrap {
+    width: 500px;
+    height: 250px;
+    background-color: #e0f2be;
+    border: 5px solid #00b3ee;
+    position: relative;
+    margin: 50px;
+}
+.shipAnimateUp {
+    -webkit-animation: shipFlyUp 3s ease;
+    -webkit-animation-fill-mode: forwards;
+}
+.shipAnimateDown {
+    -webkit-animation: shipFlyDown 3s ease;
+    -webkit-animation-fill-mode: forwards;
+}
+@-webkit-keyframes shipFlyDown {
+    100% {
+        -webkit-transform: translate(0, 500px) rotate(0deg);
+    }
+}
+@-webkit-keyframes shipFlyUp {
+    100% {
+        -webkit-transform: translate(0, -500px)  rotate(180deg);
+    }
+}
